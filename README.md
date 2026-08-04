@@ -33,8 +33,10 @@
 ===================================== -->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=600&color=00F0FF&size=24&pause=1000&vCenter=true&width=400&lines=%5BDIR%3A+.%2FABOUT_ME%5D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=19&duration=2000&pause=1000&color=00D2FF&background=0A0E1A&vCenter=true&width=300&height=45&lines=%5BDIR%3A+.%2FABOUT_ME%5D" alt="Typing SVG" />
 </a>
+
+<br/>
 
 > **[SYSTEM_LOG]**: EXECUTING_QUERY...
 > **[RESULT]**: Passionate about Artificial Intelligence, Software Engineering, and Data Science.
@@ -51,9 +53,10 @@
 ===================================== -->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=600&color=00F0FF&size=24&pause=1000&vCenter=true&width=400&lines=%5BDIR%3A+.%2FCORE_MODULES%5D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=19&duration=2000&pause=1000&color=00D2FF&background=0A0E1A&vCenter=true&width=330&height=45&lines=%5BDIR%3A+.%2FCORE_MODULES%5D" alt="Typing SVG" />
 </a>
 
+<br/>
 <br/>
 
 **[LOAD_DEPENDENCY: LANGUAGES]**
@@ -84,7 +87,7 @@
 
 <!-- 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=600&color=00F0FF&size=24&pause=1000&vCenter=true&width=400&lines=%5BDIR%3A+.%2FARCHIVE%2FPROJECTS%5D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=19&duration=2000&pause=1000&color=00D2FF&background=0A0E1A&vCenter=true&width=360&height=45&lines=%5BDIR%3A+.%2FARCHIVE%2FPROJECTS%5D" alt="Typing SVG" />
 </a>
 
 **[MODULE: AI_ASSESSMENT_PLATFORM]**
@@ -103,7 +106,7 @@
 
 <!-- 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=600&color=00F0FF&size=24&pause=1000&vCenter=true&width=400&lines=%5BDIR%3A+.%2FTELEMETRY%2FSTATS%5D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=19&duration=2000&pause=1000&color=00D2FF&background=0A0E1A&vCenter=true&width=360&height=45&lines=%5BDIR%3A+.%2FTELEMETRY%2FSTATS%5D" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -122,8 +125,10 @@
 ===================================== -->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=600&color=00F0FF&size=24&pause=1000&vCenter=true&width=400&lines=%5BDIR%3A+.%2FCOMMUNICATIONS%5D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=19&duration=2000&pause=1000&color=00D2FF&background=0A0E1A&vCenter=true&width=330&height=45&lines=%5BDIR%3A+.%2FCOMMUNICATIONS%5D" alt="Typing SVG" />
 </a>
+
+<br/>
 <br/>
 
 <p>
