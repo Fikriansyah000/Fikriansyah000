@@ -108,8 +108,8 @@
 <br/>
 
 <p align="center">
-  <img height="175em" src="https://streak-stats.demolab.com/?user=Fikriansyah000&theme=tokyonight&background=0A0E1A&border=00D2FF&currStreakNum=00D2FF&fire=00D2FF&sideNums=94A3B8&sideTitle=00D2FF&dates=94A3B8" />
-  <img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Fikriansyah000&layout=compact&theme=tokyonight&hide_border=false" />
+  <img height="175em" src="https://streak-stats.demolab.com/?user=Fikriansyah000&theme=tokyonight&background=0A0E1A&border=00D2FF&currStreakNum=00D2FF&fire=00D2FF&sideNums=94A3B8&sideTitle=00D2FF&dates=94A3B8&font=Orbitron" />
+  <img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Fikriansyah000&layout=compact&theme=tokyonight&hide_border=false&font_family=orbitron" />
 </p>
 
 <p align="center">
