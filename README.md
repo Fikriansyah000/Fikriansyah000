@@ -100,21 +100,21 @@
                STATS
 ===================================== -->
 
-<!-- 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=19&duration=2000&pause=1000&color=00D2FF&background=0A0E1A&vCenter=true&width=360&height=45&lines=%5BDIR%3A+.%2FTELEMETRY%2FSTATS%5D" alt="Typing SVG" />
 </a>
 
+<br/>
+<br/>
+
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Fikriansyah000&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fikriansyah000&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Fikriansyah000&show_icons=true&bg_color=0A0E1A&title_color=00D2FF&text_color=94A3B8&icon_color=00D2FF&border_color=00D2FF&hide_border=false" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fikriansyah000&layout=compact&bg_color=0A0E1A&title_color=00D2FF&text_color=94A3B8&border_color=00D2FF&hide_border=false" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Public%20Repositories-REPO_COUNT-blue?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=Fikriansyah000&label=PROFILE_VIEWS&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Fikriansyah000&label=PROFILE_VIEWS&color=00D2FF&style=for-the-badge&labelColor=0A0E1A" />
 </p>
--->
 
 <!-- =====================================
                 CONTACT
