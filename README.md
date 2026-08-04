@@ -128,9 +128,15 @@
 <br/>
 
 <p>
-  <a href="https://github.com/Fikriansyah000"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://www.linkedin.com/in/fikriansyah-haikal-ramadhan-820bb8235/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:fikriansyahhaikalr@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://github.com/Fikriansyah000" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Fikriansyah000-00D2FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0E1A" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/fikriansyah-haikal-ramadhan-820bb8235/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Fikriansyah_Haikal-00D2FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0E1A" alt="LinkedIn" />
+  </a>
+  <a href="mailto:fikriansyahhaikalr@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-fikriansyahhaikalr%40gmail.com-00D2FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0E1A" alt="Gmail" />
+  </a>
 </p>
 
 <hr>
