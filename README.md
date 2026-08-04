@@ -34,13 +34,16 @@
 
 <br/>
 
-> **[SYSTEM_LOG]**: EXECUTING_QUERY...
-> **[RESULT]**: Passionate about Artificial Intelligence, Software Engineering, and Data Science.
+```yaml
+[SYSTEM_LOG]:
+  query   : EXECUTING_QUERY...
+  result  : "Passionate about Artificial Intelligence, Software Engineering, and Data Science."
 
-**[ACTIVE_PROCESSES]**
-* `task_01`: Developing AI & Fullstack projects.
-* `task_02`: Exploring Machine Learning, System Design, and Research Engineering.
-* `task_03`: Innovating in Educational Technology.
+[ACTIVE_PROCESSES]:
+  task_01 : "Developing AI & Fullstack projects."
+  task_02 : "Exploring Machine Learning, System Design, and Research Engineering."
+  task_03 : "Innovating in Educational Technology."
+```
 
 <hr>
 
