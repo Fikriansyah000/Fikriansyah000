@@ -108,8 +108,8 @@
 <br/>
 
 <p align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Fikriansyah000&show_icons=true&theme=tokyonight&hide_border=false" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fikriansyah000&layout=compact&theme=tokyonight&hide_border=false" />
+  <img height="175em" src="https://github-stats-extended.vercel.app/api?username=Fikriansyah000&show_icons=true&theme=tokyonight&hide_border=false" />
+  <img height="175em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Fikriansyah000&layout=compact&theme=tokyonight&hide_border=false" />
 </p>
 
 <p align="center">
