@@ -3,7 +3,7 @@
 ===================================== -->
 
 <div align="center">
-  <img width="55%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,40:0f0c29,80:302b63,100:00ffcc&text=SYSTEM.LOGIN_SUCCESS&fontColor=00ff00&fontSize=35&animation=fadeIn&fontAlignY=38&desc=Fikriansyah_Haikal_Ramadhan&descAlignY=60&descSize=15"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:000000,40:0f0c29,80:302b63,100:00ffcc&text=SYSTEM.LOGIN_SUCCESS&fontColor=00ff00&fontSize=38&animation=fadeIn&fontAlignY=38&desc=Fikriansyah_Haikal_Ramadhan&descAlignY=62&descSize=16"/>
 </div>
 
 <!-- =====================================
@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&color=00FF00&size=22&pause=1000&vCenter=true&width=750&lines=%5B+%3E+USER_AUTHENTICATED%3A+FIKRIANSYAH+HAIKAL+RAMADHAN+%3C+%5D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&color=00FF00&size=19&pause=1000&vCenter=true&width=650&lines=%5B+%3E+USER_AUTHENTICATED%3A+FIKRIANSYAH+HAIKAL+RAMADHAN+%3C+%5D" alt="Typing SVG" />
   </a>
 </p>
 
