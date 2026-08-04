@@ -3,7 +3,9 @@
 ===================================== -->
 
 <div align="center">
-  <img src="./assets/header_card.svg" width="100%" alt="Futuristic Header Card" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=00D2FF&background=0A0E1A&center=true&vCenter=true&width=800&height=110&lines=FIKRIANSYAH+HAIKAL+RAMADHAN;AI+ENGINEER+%7C+FULLSTACK+DEV;SYSTEM.LOGIN_SUCCESS" alt="Futuristic Header" />
+  </a>
 </div>
 
 <!-- =====================================
