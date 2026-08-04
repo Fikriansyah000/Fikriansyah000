@@ -1,0 +1,39 @@
+<svg fill="none" width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&amp;family=Share+Tech+Mono&amp;display=swap');
+    .header { font-family: 'Orbitron', 'Segoe UI', sans-serif; font-weight: 700; font-size: 26px; fill: #00D2FF; letter-spacing: 2px; }
+    .sub { font-family: 'Share Tech Mono', monospace; font-size: 14px; fill: #94A3B8; letter-spacing: 1px; }
+    .status { font-family: 'Share Tech Mono', monospace; font-size: 13px; fill: #00D2FF; }
+    .border { stroke: url(#cyan-grad); stroke-width: 2px; }
+  </style>
+  <defs>
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0A0E17" />
+      <stop offset="50%" stop-color="#111827" />
+      <stop offset="100%" stop-color="#05080E" />
+    </linearGradient>
+    <linearGradient id="cyan-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00D2FF" stop-opacity="0.9" />
+      <stop offset="50%" stop-color="#7928CA" stop-opacity="0.6" />
+      <stop offset="100%" stop-color="#00D2FF" stop-opacity="0.9" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background Card -->
+  <rect x="2" y="2" width="796" height="196" rx="12" fill="url(#bg-grad)" class="border" />
+  
+  <!-- Grid Accent Lines -->
+  <path d="M 0,40 L 800,40 M 0,80 L 800,80 M 0,120 L 800,120 M 0,160 L 800,160" stroke="#00D2FF" stroke-opacity="0.05" stroke-width="1" />
+  <path d="M 100,0 L 100,200 M 200,0 L 200,200 M 300,0 L 300,200 M 400,0 L 400,200 M 500,0 L 500,200 M 600,0 L 600,200 M 700,0 L 700,200" stroke="#00D2FF" stroke-opacity="0.05" stroke-width="1" />
+  
+  <!-- Cyber Corner Accents -->
+  <path d="M 12,28 L 12,12 L 28,12" stroke="#00D2FF" stroke-width="2.5" fill="none" />
+  <path d="M 788,28 L 788,12 L 772,12" stroke="#00D2FF" stroke-width="2.5" fill="none" />
+  <path d="M 12,172 L 12,188 L 28,188" stroke="#00D2FF" stroke-width="2.5" fill="none" />
+  <path d="M 788,172 L 788,188 L 772,188" stroke="#00D2FF" stroke-width="2.5" fill="none" />
+  
+  <!-- Content -->
+  <text x="400" y="75" text-anchor="middle" class="header">FIKRIANSYAH HAIKAL RAMADHAN</text>
+  <text x="400" y="115" text-anchor="middle" class="sub">AI ENGINEER // FULLSTACK DEVELOPER // DATA SCIENTIST</text>
+  <text x="400" y="155" text-anchor="middle" class="status">[ > SYSTEM.STATUS: ONLINE // ACCESS: GRANTED < ]</text>
+</svg>
