@@ -81,23 +81,33 @@
 <hr>
 
 <!-- =====================================
-            FEATURED REPOSITORIES
+            FEATURED PROJECTS
 ===================================== -->
 
-<!-- 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=19&duration=2000&pause=1000&color=00D2FF&background=0A0E1A&vCenter=true&width=360&height=45&lines=%5BDIR%3A+.%2FARCHIVE%2FPROJECTS%5D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=19&duration=2000&pause=1000&color=00D2FF&background=0A0E1A&vCenter=true&width=360&height=45&lines=%5BDIR%3A+.%2FPROJECTS_ARCHIVE%5D" alt="Typing SVG" />
 </a>
 
-**[MODULE: AI_ASSESSMENT_PLATFORM]**
-> AI-powered educational assessment system with adaptive interaction and analytics.
+<br/>
 
-**[MODULE: DATA_ANALYTICS_DASHBOARD]**
-> Interactive dashboard for visualization and educational monitoring.
+```yaml
+[FEATURED_PROJECT_01]:
+  name        : "AI-Powered Assessment Platform"
+  stack       : "Python, Machine Learning, Laravel, React"
+  description : "Educational assessment system featuring adaptive interaction, automated grading, and real-time analytics."
 
-**[MODULE: SCALABLE_WEB_APP]**
-> Modern scalable web application using Laravel and modern frontend technologies.
--->
+[FEATURED_PROJECT_02]:
+  name        : "Data Analytics & Visualization Dashboard"
+  stack       : "TypeScript, React, Python, Data Science"
+  description : "Interactive dashboard for educational data monitoring, analytics, and predictive insights."
+
+[FEATURED_PROJECT_03]:
+  name        : "Scalable Fullstack Web System"
+  stack       : "Laravel, Node.js, MySQL, Tailwind CSS"
+  description : "Modern scalable web application built with robust backend architecture and responsive UI."
+```
+
+<hr>
 
 <!-- =====================================
                STATS
@@ -116,6 +126,7 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/github/repos/count/Fikriansyah000?style=for-the-badge&label=PUBLIC%20REPOS&labelColor=0A0E1A&color=00D2FF&logo=github&logoColor=white" />
   <img src="https://komarev.com/ghpvc/?username=Fikriansyah000&label=PROFILE_VIEWS&color=00D2FF&style=for-the-badge&labelColor=0A0E1A" />
 </p>
 
