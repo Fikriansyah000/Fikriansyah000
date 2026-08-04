@@ -135,7 +135,8 @@
 
 <hr>
 
-<p align="center">
-  <code>[ TERMINAL_SESSION_CLOSED ]</code><br>
-  <code>// BUILDING_TECHNOLOGY_WITH_PURPOSE_AND_IMPACT //</code>
-</p>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=15&duration=3000&pause=1000&color=00D2FF&background=0A0E1A&center=true&vCenter=true&width=550&height=65&lines=%5B+TERMINAL_SESSION_CLOSED+%5D;%2F%2F+BUILDING_TECHNOLOGY_WITH_PURPOSE_AND_IMPACT+%2F%2F" alt="Futuristic Footer" />
+  </a>
+</div>
