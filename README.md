@@ -126,7 +126,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/repos/count/Fikriansyah000?style=for-the-badge&label=PUBLIC%20REPOS&labelColor=0A0E1A&color=00D2FF&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/PUBLIC%20REPOSITORIES-GITHUB-00D2FF?style=for-the-badge&labelColor=0A0E1A&logo=github&logoColor=white" />
   <img src="https://komarev.com/ghpvc/?username=Fikriansyah000&label=PROFILE_VIEWS&color=00D2FF&style=for-the-badge&labelColor=0A0E1A" />
 </p>
 
