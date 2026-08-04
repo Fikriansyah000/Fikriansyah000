@@ -3,7 +3,7 @@
 ===================================== -->
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:000000,40:0f0c29,80:302b63,100:00ffcc&text=Fikriansyah_Haikal_Ramadhan&fontColor=00ff00&fontSize=38&animation=fadeIn&fontAlignY=38&desc=SYSTEM.LOGIN_SUCCESS&descAlignY=62&descSize=16"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:090915,35:16003b,75:4d0099,100:00f0ff&text=Fikriansyah_Haikal_Ramadhan&fontColor=ffffff&fontSize=38&animation=fadeIn&fontAlignY=38&desc=SYSTEM.LOGIN_SUCCESS&descColor=00f0ff&descAlignY=62&descSize=16"/>
 </div>
 
 <!-- =====================================
@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&color=00FF00&size=19&pause=1000&vCenter=true&width=650&lines=%5B+%3E+USER_AUTHENTICATED%3A+FIKRIANSYAH+HAIKAL+RAMADHAN+%3C+%5D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&color=00F0FF&size=19&pause=1000&vCenter=true&width=650&lines=%5B+%3E+USER_AUTHENTICATED%3A+FIKRIANSYAH+HAIKAL+RAMADHAN+%3C+%5D" alt="Typing SVG" />
   </a>
 </p>
 
@@ -33,7 +33,7 @@
 ===================================== -->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=600&color=00FF00&size=24&pause=1000&vCenter=true&width=400&lines=%5BDIR%3A+.%2FABOUT_ME%5D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=600&color=00F0FF&size=24&pause=1000&vCenter=true&width=400&lines=%5BDIR%3A+.%2FABOUT_ME%5D" alt="Typing SVG" />
 </a>
 
 > **[SYSTEM_LOG]**: EXECUTING_QUERY...
@@ -51,7 +51,7 @@
 ===================================== -->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=600&color=00FF00&size=24&pause=1000&vCenter=true&width=400&lines=%5BDIR%3A+.%2FCORE_MODULES%5D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=600&color=00F0FF&size=24&pause=1000&vCenter=true&width=400&lines=%5BDIR%3A+.%2FCORE_MODULES%5D" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -84,7 +84,7 @@
 
 <!-- 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=600&color=00FF00&size=24&pause=1000&vCenter=true&width=400&lines=%5BDIR%3A+.%2FARCHIVE%2FPROJECTS%5D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=600&color=00F0FF&size=24&pause=1000&vCenter=true&width=400&lines=%5BDIR%3A+.%2FARCHIVE%2FPROJECTS%5D" alt="Typing SVG" />
 </a>
 
 **[MODULE: AI_ASSESSMENT_PLATFORM]**
@@ -103,7 +103,7 @@
 
 <!-- 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=600&color=00FF00&size=24&pause=1000&vCenter=true&width=400&lines=%5BDIR%3A+.%2FTELEMETRY%2FSTATS%5D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=600&color=00F0FF&size=24&pause=1000&vCenter=true&width=400&lines=%5BDIR%3A+.%2FTELEMETRY%2FSTATS%5D" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -122,7 +122,7 @@
 ===================================== -->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=600&color=00FF00&size=24&pause=1000&vCenter=true&width=400&lines=%5BDIR%3A+.%2FCOMMUNICATIONS%5D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=600&color=00F0FF&size=24&pause=1000&vCenter=true&width=400&lines=%5BDIR%3A+.%2FCOMMUNICATIONS%5D" alt="Typing SVG" />
 </a>
 <br/>
 
