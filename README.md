@@ -13,10 +13,6 @@
 ===================================== -->
 
 <p align="center">
-  <code>[ > USER_AUTHENTICATED: FIKRIANSYAH HAIKAL RAMADHAN < ]</code>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-00D2FF?style=for-the-badge&labelColor=0A0E1A" />
   <img src="https://img.shields.io/badge/ROLE-AI%20ENGINEER%20%7C%20FULLSTACK-00D2FF?style=for-the-badge&labelColor=0A0E1A" />
   <img src="https://img.shields.io/badge/LOCATION-INDONESIA-00D2FF?style=for-the-badge&labelColor=0A0E1A" />
