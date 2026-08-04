@@ -1,9 +1,8 @@
 <svg fill="none" width="800" height="200" xmlns="http://www.w3.org/2000/svg">
   <style>
-    @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&amp;family=Share+Tech+Mono&amp;display=swap');
-    .header { font-family: 'Orbitron', 'Segoe UI', sans-serif; font-weight: 700; font-size: 26px; fill: #00D2FF; letter-spacing: 2px; }
-    .sub { font-family: 'Share Tech Mono', monospace; font-size: 14px; fill: #94A3B8; letter-spacing: 1px; }
-    .status { font-family: 'Share Tech Mono', monospace; font-size: 13px; fill: #00D2FF; }
+    .header { font-family: 'Consolas', 'Segoe UI', 'Courier New', monospace; font-weight: 700; font-size: 24px; fill: #00D2FF; letter-spacing: 2px; }
+    .sub { font-family: 'Consolas', 'Courier New', monospace; font-size: 13px; fill: #94A3B8; letter-spacing: 1px; }
+    .status { font-family: 'Consolas', 'Courier New', monospace; font-size: 12px; fill: #00D2FF; }
     .border { stroke: url(#cyan-grad); stroke-width: 2px; }
   </style>
   <defs>
