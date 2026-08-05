@@ -92,18 +92,18 @@
 
 ```yaml
 [FEATURED_PROJECT_01]:
-  name        : "AI-Powered Assessment Platform"
+  name        : "AI-Powered Assessment Platform | Affectra"
   stack       : "Python, Machine Learning, Laravel, React"
   description : "Educational assessment system featuring adaptive interaction, automated grading, and real-time analytics."
 
 [FEATURED_PROJECT_02]:
-  name        : "Data Analytics & Visualization Dashboard"
+  name        : "Data Analytics & Visualization Dashboard | FinMate"
   stack       : "TypeScript, React, Python, Data Science"
-  description : "Interactive dashboard for educational data monitoring, analytics, and predictive insights."
+  description : "Interactive dashboard for financial data monitoring, analytics, and predictive insights."
 
 [FEATURED_PROJECT_03]:
-  name        : "Scalable Fullstack Web System"
-  stack       : "Laravel, Node.js, MySQL, Tailwind CSS"
+  name        : "Scalable Fullstack Web System | PSTIMart"
+  stack       : "Laravel, MySQL, Tailwind CSS"
   description : "Modern scalable web application built with robust backend architecture and responsive UI."
 ```
 
