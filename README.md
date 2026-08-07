@@ -37,7 +37,7 @@
 ```yaml
 [SYSTEM_LOG]:
   query   : EXECUTING_QUERY...
-  result  : "Passionate about Artificial Intelligence, Software Engineering, and Data Science."
+  result  : "Passionate about Artificial Intelligence, Software Engineering, Data Science, and Education Technology."
 
 [ACTIVE_PROCESSES]:
   task_01 : "Developing AI & Fullstack projects."
@@ -120,10 +120,10 @@
 <br/>
 <br/>
 
-<p align="center">
+<!-- <p align="center">
   <img height="175em" src="https://streak-stats.demolab.com/?user=Fikriansyah000&theme=tokyonight&background=0A0E1A&border=00D2FF&currStreakNum=00D2FF&fire=00D2FF&sideNums=94A3B8&sideTitle=00D2FF&dates=94A3B8&font=Orbitron" />
   <img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Fikriansyah000&layout=compact&theme=tokyonight&hide_border=false&font_family=orbitron" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://img.shields.io/badge/PUBLIC%20REPOSITORIES-GITHUB-00D2FF?style=for-the-badge&labelColor=0A0E1A&logo=github&logoColor=white" />
