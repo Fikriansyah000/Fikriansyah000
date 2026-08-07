@@ -113,17 +113,17 @@
                STATS
 ===================================== -->
 
-<a href="https://git.io/typing-svg">
+<!-- <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=19&duration=2000&pause=1000&color=00D2FF&background=0A0E1A&vCenter=true&width=410&height=45&lines=%5BDIR%3A+.%2FTELEMETRY%2FSTATS%5D" alt="Typing SVG" />
-</a>
+</a> -->
 
 <br/>
 <br/>
 
-<!-- <p align="center">
+<p align="center">
   <img height="175em" src="https://streak-stats.demolab.com/?user=Fikriansyah000&theme=tokyonight&background=0A0E1A&border=00D2FF&currStreakNum=00D2FF&fire=00D2FF&sideNums=94A3B8&sideTitle=00D2FF&dates=94A3B8&font=Orbitron" />
   <img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Fikriansyah000&layout=compact&theme=tokyonight&hide_border=false&font_family=orbitron" />
-</p> -->
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/PUBLIC%20REPOSITORIES-GITHUB-00D2FF?style=for-the-badge&labelColor=0A0E1A&logo=github&logoColor=white" />
