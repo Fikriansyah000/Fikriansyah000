@@ -131,6 +131,22 @@
   <img src="https://komarev.com/ghpvc/?username=Fikriansyah000&label=PROFILE_VIEWS&color=00D2FF&style=for-the-badge&labelColor=0A0E1A" />
 </p>
 
+<br/>
+
+<!-- =====================================
+                CONTRIBUTIONS SNAKE
+===================================== -->
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fikriansyah000/Fikriansyah000/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fikriansyah000/Fikriansyah000/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Fikriansyah000/Fikriansyah000/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+<br/>
+
 <!-- =====================================
                 CONTACT
 ===================================== -->

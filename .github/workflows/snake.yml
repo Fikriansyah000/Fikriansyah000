@@ -1,0 +1,41 @@
+name: Generate Snake Animation
+
+on:
+  # Run automatically every 12 hours
+  schedule:
+    - cron: "0 */12 * * *" 
+  
+  # Allow to manually run the job at any time
+  workflow_dispatch:
+  
+  # Run on every push on the main branch
+  push:
+    branches:
+    - main
+
+jobs:
+  generate:
+    permissions: 
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    steps:
+      - name: Generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Fikriansyah000
+          # We use a Cyberpunk/Terminal Theme:
+          # Dots range from dark obsidian to electric cyan.
+          # Snake is Neon Red/Pink (#CE1126).
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=#CE1126&color_dots=#0A0E1A,#0d2238,#005b73,#008fb3,#00D2FF
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#CE1126&color_dots=#0A0E1A,#0d2238,#005b73,#008fb3,#00D2FF
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
