@@ -120,6 +120,7 @@
 <br/>
 <br/>
 
+<!-- Telemetry Cards -->
 <p align="center">
   <img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fikriansyah000&theme=tokyonight" alt="Stats" />
   <img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fikriansyah000&theme=tokyonight" alt="Top Languages" />
