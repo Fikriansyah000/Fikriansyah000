@@ -122,7 +122,7 @@
 
 <p align="center">
   <img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fikriansyah000&theme=tokyonight" alt="Stats" />
-  <img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fikriansyah000&theme=tokyonight" alt="Top Languages" />
+  <img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fikriansyah000&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
