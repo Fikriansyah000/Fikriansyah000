@@ -121,8 +121,8 @@
 <br/>
 
  <p align="center">
-  <img height="175em" src="https://streak-stats.vercel.app?user=Fikriansyah000&theme=tokyonight&background=0A0E1A&border=00D2FF&currStreakNum=00D2FF&fire=00D2FF&sideNums=94A3B8&sideTitle=00D2FF&dates=94A3B8&font=Orbitron" />
-  <img height="175em" src="https://raw.githubusercontent.com/Fikriansyah000/Fikriansyah000/output/top-langs.svg" />
+  <img height="175em" src="https://github-stats-extended.vercel.app/api?username=Fikriansyah000&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="175em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Fikriansyah000&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
 
 
 
