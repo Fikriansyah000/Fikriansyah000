@@ -122,7 +122,7 @@
 
  <p align="center">
   <img height="175em" src="https://streak-stats.vercel.app?user=Fikriansyah000&theme=tokyonight&background=0A0E1A&border=00D2FF&currStreakNum=00D2FF&fire=00D2FF&sideNums=94A3B8&sideTitle=00D2FF&dates=94A3B8&font=Orbitron" />
-  <img height="175em" src="assets/top-langs.svg" />
+  <img height="175em" src="https://raw.githubusercontent.com/Fikriansyah000/Fikriansyah000/output/top-langs.svg" />
 
 
 
@@ -138,7 +138,11 @@
 ===================================== -->
 
 <p align="center">
-  <img alt="GitHub Contribution Snake" src="assets/snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fikriansyah000/Fikriansyah000/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fikriansyah000/Fikriansyah000/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Fikriansyah000/Fikriansyah000/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 <br/>
