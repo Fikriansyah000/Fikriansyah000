@@ -29,8 +29,8 @@ jobs:
           # Dots range from dark obsidian to electric cyan.
           # Snake is Neon Red/Pink (#CE1126).
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#CE1126&color_dots=#0A0E1A,#0d2238,#005b73,#008fb3,#00D2FF
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#CE1126&color_dots=#0A0E1A,#0d2238,#005b73,#008fb3,#00D2FF
+            dist/github-snake.svg?color_snake=#CE1126&color_dots=#0A0E1A,#0d2238,#005b73,#008fb3,#00D2FF
+            dist/github-snake-dark.svg?color_snake=#CE1126&color_dots=#0A0E1A,#0d2238,#005b73,#008fb3,#00D2FF
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0

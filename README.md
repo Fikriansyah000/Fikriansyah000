@@ -113,18 +113,25 @@
                STATS
 ===================================== -->
 
- <a href="https://git.io/typing-svg">
+<a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=19&duration=2000&pause=1000&color=00D2FF&background=0A0E1A&vCenter=true&width=410&height=45&lines=%5BDIR%3A+.%2FTELEMETRY%2FSTATS%5D" alt="Typing SVG" />
-</a> 
+</a>
 
 <br/>
 <br/>
 
- <p align="center">
-  <img height="175em" src="https://github-stats-extended.vercel.app/api?username=Fikriansyah000&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="175em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Fikriansyah000&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+<p align="center">
+  <img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fikriansyah000&theme=tokyonight" alt="Stats" />
+  <img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fikriansyah000&theme=tokyonight" alt="Top Languages" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Fikriansyah000&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fikriansyah000&theme=tokyonight" alt="Profile Details" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/PUBLIC%20REPOSITORIES-GITHUB-00D2FF?style=for-the-badge&labelColor=0A0E1A&logo=github&logoColor=white" />
@@ -139,9 +146,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fikriansyah000/Fikriansyah000/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fikriansyah000/Fikriansyah000/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Fikriansyah000/Fikriansyah000/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fikriansyah000/Fikriansyah000/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fikriansyah000/Fikriansyah000/output/github-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Fikriansyah000/Fikriansyah000/output/github-snake.svg">
   </picture>
 </p>
 
