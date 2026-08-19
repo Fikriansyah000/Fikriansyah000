@@ -127,7 +127,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Fikriansyah000&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+ <img src="https://streak-stats.demolab.com?user=Fikriansyah000&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
 
 <p align="center">
